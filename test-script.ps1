@@ -1,0 +1,1 @@
+write-host "Testing git with Powershell"
